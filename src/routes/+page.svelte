@@ -54,7 +54,11 @@
     <table class="table is-bordered is-striped">
       <thead>
         <tr>
-          <td colspan="2">List of Products without Bar Code</td>
+          <td colspan="2"
+            ><strong
+              >List of Products without Bar Code
+            </strong>({search_results.length})</td
+          >
         </tr>
         <tr>
           <td colspan="2">
